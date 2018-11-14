@@ -1,6 +1,6 @@
 {
   "name": "@aleclarson/npm-view",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Inspect the package.json of NPM packages",
   "repository": "aleclarson/npm-view",
   "license": "MIT",
